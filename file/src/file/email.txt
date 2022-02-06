@@ -1,0 +1,14 @@
+0,황승준,컴퓨터 공학,seungjune.hwang@gmail.com
+1,김진혁,전자 공학과,wlsgurrn31@gmail.com
+2,유수민,전자공학과,na
+3,이효진,데이터사이언스,amyhyolee@gmail.com
+4,이승현,사학과,sen9563@gmail.com
+5,노지윤,IT응용공학과,onm4239@gmail.com
+6,조재웅,컴퓨터 공학,whye1324@gmail.com
+7,조현욱,조선해양공학,jhu980126@gmail.com
+8,김장환,컴퓨터 공학,kjhg7749@gmail.com
+9,이덕현,컴퓨터 공학,deok.lee@obf.ateneo.edu
+10,이성수,국어국문학,tjdtn951007@gmail.com
+11,허정우,컴퓨터공학과,na
+12,정석원,IT응용공학과,jsw900154@gmail.com
+13,김지현,초등교육과,aekim727@gmail.com
